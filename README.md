@@ -4,8 +4,11 @@
   </a>
 </p>
 <h1 align="center">
-  My curriculum based on Gatsby's CV starter
+  My curriculum vitae
 </h1>
+<p>
+  (Work based on Gatsby's CV starter)
+</p>
 
 Create your resume in a few minutes with this totally responsive starter using React. Show off your skills, work experiences and activities in github.
 
