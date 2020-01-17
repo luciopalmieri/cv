@@ -69,7 +69,7 @@ class Home extends React.Component {
                 <About title='About' text={siteConfig.authorDescription}/>
               </Col>
               <Col xs={4} sm={4}>
-                <Skills title='Skills' skills={siteConfig.skills} />
+                <Skills title='Main skills' skills={siteConfig.skills} />
               </Col>
             </Row>
             <Separator />
