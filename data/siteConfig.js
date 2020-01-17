@@ -48,7 +48,7 @@ module.exports = {
       duration: null,
       occupation: "Back-end developer",
       description: `Software development for the Promoqui backend.
-      The main areas I worked on are: push notification management, custom leaflets generation, googlebot access analysis, migration from Solr to Elasticsearch, REST endpoint, GraphQL nodes`
+      The main areas I worked on are: push notification management, custom leaflets generation, Googlebot access analysis, migration from Solr to Elasticsearch, REST endpoints, GraphQL nodes, Lambda functions, AWS services configuration.`
   
     }, {
       company: "Netgroup Srl",
