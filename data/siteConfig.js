@@ -112,7 +112,7 @@ module.exports = {
   },
   siteUrl: 'https://luciopalmieri.github.io',
   pathPrefix: '/fcc', // Note: it must *not* have a trailing slash.
-  siteCover: '/images/cover.jpeg',
+  siteCover: '/images/cover.webp',
   googleAnalyticsId: 'UA-156346486-1',
   background_color: '#ffffff',
   theme_color: '#25303B',
