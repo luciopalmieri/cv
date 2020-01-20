@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Lucio Palmieri',
+  siteTitle: 'Lucio Palmieri Curriculum',
   siteDescription: `Lucio Palmieri (backend developer) curriculum vitae and portfolio`,
   keyWords: ['cv', 'curriculum', 'portfolio', 'lucio palmieri', 'backend', 'back-end', 'developer'],
   authorName: 'Lucio Palmieri',
@@ -111,11 +111,11 @@ module.exports = {
     email: "lucio.palmieri@gmail.com"
   },
   siteUrl: 'https://luciopalmieri.github.io',
-  pathPrefix: '/fcc', // Note: it must *not* have a trailing slash.
+  pathPrefix: '/', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.webp',
   googleAnalyticsId: 'UA-156346486-1',
-  background_color: '#ffffff',
-  theme_color: '#25303B',
+  background_color: '#F4F4F4',
+  theme_color: '#253C4C',
   display: 'minimal-ui',
   icon: 'src/assets/lp-icon.png',
   headerLinks: [
