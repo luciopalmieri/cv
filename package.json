@@ -33,7 +33,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "start": "npm run develop",
-    "deploy": "gatsby build && node ./scripts/deploy-github",
+    "deploy": "gatsby build && echo 'luciopalmieri.com' > public/CNAME && node ./scripts/deploy-github",
     "format": "prettier --write \"src/**/*.js\"",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
