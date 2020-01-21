@@ -11,6 +11,7 @@ import Wrapper from '../components/wrapper'
 import About from '../components/about'
 import Skills from '../components/skills'
 import Timeline from '../components/timeline'
+import FreeCodeCamp from '../components/freecodecamp'
 import Repositories from '../components/repositories'
 
 const Separator = styled.hr`
@@ -74,6 +75,8 @@ class Home extends React.Component {
             </Row>
             <Separator />
             <Timeline />
+            <Separator />
+            <FreeCodeCamp />
             <Separator />
             <Repositories />
           </Container>
