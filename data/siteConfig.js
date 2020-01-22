@@ -110,7 +110,7 @@ module.exports = {
     github: "https://github.com/luciopalmieri",
     email: "lucio.palmieri@gmail.com"
   },
-  siteUrl: 'https://luciopalmieri.github.io',
+  siteUrl: 'https://luciopalmieri.com',
   pathPrefix: '/', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.webp',
   googleAnalyticsId: 'UA-156346486-1',
