@@ -8,7 +8,7 @@ class FreeCodeCamp extends React.Component {
         return (
             <div>
                 <h2>FreeCodeCamp</h2>
-                <a target="_blank" rel="noopener" href="https://luciopalmieri.com/fcc/">Projects & Certifications </a>
+                <a target="_blank" rel="noopener noreferrer" href="https://luciopalmieri.com/fcc/">Projects & Certifications </a>
             </div>
         );
     }
