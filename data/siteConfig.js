@@ -36,6 +36,26 @@ module.exports = {
     {
       name: 'AWS',
       level: 60
+    },
+    {
+      name: 'Python',
+      level: 60
+    },
+    {
+      name: 'Machine Learning',
+      level: 40
+    },
+    {
+      name: 'Deep Learning',
+      level: 40
+    },
+    {
+      name: 'Computer Vision',
+      level: 40
+    },
+    {
+      name: '3D Printing',
+      level: 60
     }
   ],
   jobs: [
