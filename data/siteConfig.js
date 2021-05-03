@@ -54,6 +54,14 @@ module.exports = {
       level: 40
     },
     {
+      name: 'Natural Language Processing',
+      level: 28
+    },
+    {
+      name: 'Big Data Analysis',
+      level: 5
+    },
+    {
       name: '3D Printing',
       level: 60
     }
