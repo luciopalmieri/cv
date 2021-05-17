@@ -55,11 +55,11 @@ module.exports = {
     },
     {
       name: 'Natural Language Processing',
-      level: 28
+      level: 30
     },
     {
       name: 'Big Data Analysis',
-      level: 5
+      level: 30
     },
     {
       name: '3D Printing',
