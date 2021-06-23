@@ -8,7 +8,7 @@ module.exports = {
   authorAvatar: '/images/avatar.jpeg',
   authorDescription: `Since 2000, I use GNU/Linux systems and develop software with OO technologies, <strong>making information technology a my passion as well as the my profession</strong>.
     Particularly attentive to my training and refresher courses in the computer technologies, I face my projects so active and proactive in the full group collaboration and autonomy of the activities of my expertise.
-    My most recent technical insights are related to <strong>3D printing</strong> and <strong>AI</strong>`,
+    My most recent technical insights are related to <strong>3D printing</strong> and <strong>AI</strong>.`,
   skills: [
     {
       name: 'Ruby on Rails',
