@@ -15,11 +15,11 @@ module.exports = {
     },
     {
       name: 'Elasticsearch',
-      level: 70
+      level: 80
     },
     {
       name: 'MySQL',
-      level: 60
+      level: 70
     },
     {
       name: 'MongoDB',
@@ -31,15 +31,15 @@ module.exports = {
     },
     {
       name: 'Git',
-      level: 80
+      level: 85
     },
     {
       name: 'AWS',
-      level: 60
+      level: 70
     },
     {
       name: 'Python',
-      level: 60
+      level: 70
     },
     {
       name: 'Machine Learning',
@@ -63,11 +63,22 @@ module.exports = {
     },
     {
       name: '3D Printing',
-      level: 60
+      level: 65
     }
   ],
   jobs: [
     {
+      company: "Shopfully",
+      begin: {
+        month: 'apr',
+        year: '2020'
+      },
+      duration: null,
+      occupation: "Back-end developer",
+      description: `Software development for the Promoqui backend.
+      The main areas I worked on are: Images diff analysis, Identical and Similar Images Detection, Elasticsearch queries, GraphQL nodes, AWS services configuration, Lambda functions, AWS Elastic Beanstalk.`
+  
+    }, {
       company: "PromoQui SpA",
       begin: {
         month: 'jul',
@@ -76,7 +87,7 @@ module.exports = {
       duration: null,
       occupation: "Back-end developer",
       description: `Software development for the Promoqui backend.
-      The main areas I worked on are: push notification management, custom leaflets generation, Googlebot access analysis, migration from Solr to Elasticsearch, REST endpoints, GraphQL nodes, Lambda functions, AWS services configuration.`
+      The main areas I worked on are: push notification management, custom leaflets generation, Googlebot access analysis, migration from Solr to Elasticsearch, REST endpoints, GraphQL nodes, AWS services configuration, Lambda functions.`
   
     }, {
       company: "Netgroup Srl",
