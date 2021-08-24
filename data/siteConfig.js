@@ -44,7 +44,7 @@ module.exports = {
     },
     {
       name: 'Machine Learning',
-      level: 40
+      level: 42
     },
     {
       name: 'Deep Learning',
@@ -52,7 +52,7 @@ module.exports = {
     },
     {
       name: 'Computer Vision',
-      level: 40
+      level: 42
     },
     {
       name: 'Natural Language Processing',
@@ -75,9 +75,9 @@ module.exports = {
         year: '2020'
       },
       duration: null,
-      occupation: "Back-end developer",
+      occupation: "Senior Back-end developer",
       description: `Software development for the Promoqui backend.
-      The main areas I worked on are: Images diff analysis, Identical and Similar Images Detection, Elasticsearch queries, GraphQL nodes, AWS services configuration, Lambda functions, AWS Elastic Beanstalk.`
+      The main areas I worked on are: Images diff analysis, Identical and Similar Images Detection, System Health Monitoring, Elasticsearch queries, GraphQL nodes, AWS services configuration, AWS Lambda functions, AWS Elastic Beanstalk, AWS Kinesis.`
   
     }, {
       company: "PromoQui SpA",
