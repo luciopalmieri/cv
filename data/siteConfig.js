@@ -85,7 +85,7 @@ module.exports = {
         month: 'jul',
         year: '2017'
       },
-      duration: null,
+      duration: '2 yr e 10 mos',
       occupation: "Back-end developer",
       description: `Software development for the Promoqui backend.
       The main areas I worked on are: push notification management, custom leaflets generation, Googlebot access analysis, migration from Solr to Elasticsearch, REST endpoints, GraphQL nodes, AWS services configuration, Lambda functions.`
